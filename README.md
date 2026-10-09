@@ -2,7 +2,7 @@
 <h3 align="center">Vocational High School Student & Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=cyan&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FraizenAr&color=cyan&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-cyan?style=flat-square" alt="Status">
 </p>
 
@@ -11,7 +11,7 @@
 ### 💻 About Me
 * 🌱 I’m currently diving deep into **Full-Stack Web Development** and exploring **Generative AI Engineering**.
 * 🏫 Software Engineering student at SMK Negeri 1 Bantul, Indonesia.
-* ⚡ Fun fact: I love building responsive web apps, working with databases, and tinkering with Linux environments.
+* ⚡ Fun fact: I love fried rice and instant noodle.
 
 ---
 
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FraizenAr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
