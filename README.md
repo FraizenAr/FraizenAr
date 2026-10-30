@@ -42,10 +42,6 @@
 
 ---
 
-### 📌 Featured Projects
-* 🍲 **Kantin Digital** — Web-based school canteen ordering and management application using PHP, Bootstrap, and MySQL.
-* 📚 **LibSmart Concept** — Smart school library mobile application UI/UX concept and workflow.
-* 🖥️ **Infrastructure Management System** — C# Windows Forms desktop application for tracking school laboratory equipment.
 
 ---
 
