@@ -9,9 +9,10 @@
 ---
 
 ### 💻 About Me
-* 🌱 I’m currently diving deep into **Full-Stack Web Development** and exploring **Generative AI Engineering**.
-* 🏫 Software Engineering student at SMK Negeri 1 Bantul, Indonesia.
-* ⚡ Fun fact: I love fried rice and instant noodle.
+* 🏫 Software Engineering Student at **SMK Negeri 1 Bantul**.
+* 🌱 Deepening knowledge in **Full-Stack Web Development**, **Mobile App Development**, and **Software Engineering**.
+* 🎯 Focus: Building practical web & mobile applications with clean architecture and solid database designs.
+* ⚡ Fun fact: Passionate about programming, cybersecurity CTFs, and enjoying fried rice or instant noodles.
 
 ---
 
@@ -25,9 +26,10 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 #### **Databases & Tools**
@@ -35,10 +37,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
+
+### 📌 Featured Projects
+* 🍲 **Kantin Digital** — Web-based school canteen ordering and management application using PHP, Bootstrap, and MySQL.
+* 📚 **LibSmart Concept** — Smart school library mobile application UI/UX concept and workflow.
+* 🖥️ **Infrastructure Management System** — C# Windows Forms desktop application for tracking school laboratory equipment.
 
 ---
 
@@ -56,4 +67,5 @@
 ---
 
 ### 📫 Connect with Me
-* 📧 Email: fairuzar989@gmail.com
+* 📧 **Email:** [fairuzar989@gmail.com](mailto:fairuzar989@gmail.com)
+* 💼 **GitHub:** [FraizenAr](https://github.com/FraizenAr)
